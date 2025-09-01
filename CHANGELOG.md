@@ -4,7 +4,7 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2025-08-31)
+## Unreleased (2025-09-01)
 
 <section class="features">
 
@@ -22,6 +22,7 @@
 
 <details>
 
+-   [`9be4cfa`](https://github.com/stdlib-js/stdlib/commit/9be4cfa08c56d4d736bece90bb713d339db3d9cc) - **docs:** update range to match the one used in example file _(by Philipp Burckhardt)_
 -   [`b7b141b`](https://github.com/stdlib-js/stdlib/commit/b7b141b93a4d030ce23c6ebe50264bd910e5fdf2) - **feat:** add `ndarray/base/any-by` [(#7664)](https://github.com/stdlib-js/stdlib/pull/7664) _(by Muhammad Haris, Athan Reines)_
 
 </details>
@@ -34,10 +35,11 @@
 
 ### Contributors
 
-A total of 2 people contributed to this release. Thank you to the following contributors:
+A total of 3 people contributed to this release. Thank you to the following contributors:
 
 -   Athan Reines
 -   Muhammad Haris
+-   Philipp Burckhardt
 
 </section>
 
